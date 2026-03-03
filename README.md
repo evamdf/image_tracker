@@ -7,6 +7,8 @@ Uses SIFT to detect keypoints and their descriptors in individual video frames. 
 ## Executing
 Running main.py executes all image reading, keypoint and descriptor computation as well as bounding box tracking. It creates two folders of visualization results. 
 
+Existing result images can be seen in `SIFT_Keypoints_Results`
+
 #### Packages Used
 - cv2
 - matplotlib
